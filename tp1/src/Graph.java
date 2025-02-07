@@ -76,4 +76,3 @@ public class Graph<Label> {
             return this.incidency;
         }
     }
-
